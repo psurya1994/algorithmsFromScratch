@@ -5,4 +5,4 @@ These are the algorithms I implemented from scratch without using any codes are 
 Here is a description of each of the notebooks:
 - linear-regression.ipynb: implemented linear regression using grid and random searches
 - linear-regression-gradient-descent.ipynb: implemented linear regression using gradient descent
-- PCAFromScratch.ipynb: implemented PCA from scratch after reading 2.13 of the Deep Learning book.
+- PCAFromScratch.ipynb: implemented PCA from scratch after reading 2.12 of the Deep Learning book.
