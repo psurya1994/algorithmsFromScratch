@@ -15,3 +15,4 @@ Need to implement in future:
 - KNearestNeighbor
 - Put all in the implementations in a library that I can use in future
 
+As witnessed by the story of Ian Goodfellow, where he implemented GANs by applying game theory to ML (after a heated debate in a pub), being able to code from scratch is a very important skill to have. Something that I haven't done much of in the past. This repo is to turn that around.
