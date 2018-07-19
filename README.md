@@ -6,3 +6,12 @@ Here is a description of each of the notebooks:
 - linear-regression.ipynb: implemented linear regression using grid and random searches
 - linear-regression-gradient-descent.ipynb: implemented linear regression using gradient descent
 - PCAFromScratch.ipynb: implemented PCA from scratch after reading 2.12 of the Deep Learning book.
+
+Need to implement in future:
+- Logistic regression
+- Basic neural networks
+- Convolutional neural networks
+- Kmeans
+- KNearestNeighbor
+- Put all in the implementations in a library that I can use in future
+
